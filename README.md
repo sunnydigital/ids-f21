@@ -1,0 +1,2 @@
+# IDS_F21
+This is the repository for Introduction to Data Science, Fall 2021
